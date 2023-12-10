@@ -3,7 +3,6 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
-    
     // List to store all extracted part numbers
     public static List<String> partNumbersList = new ArrayList<>();
 
